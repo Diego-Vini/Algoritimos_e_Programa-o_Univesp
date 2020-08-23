@@ -1,5 +1,5 @@
 # Algoritimos_e_Programacao_Univesp
-
+# Exercicios de fixação referente a matéria trabalhada
 Semana01:
 - Lógica de programação
 - Variaveis
