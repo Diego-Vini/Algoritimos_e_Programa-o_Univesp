@@ -11,3 +11,6 @@ Semana02:
 - Expressões
 - Variáveis
 - Atribuição
+- Strings
+- Listas
+- Tuplas
